@@ -1,0 +1,45 @@
+img {
+    width: 400px;
+}
+
+body {
+    background-color: #008080;
+}
+
+h1 {
+    color: #4dff88;
+    font-family: 'New Tegomin', serif;
+}
+
+h2.About {
+    color: #99ff99;
+    font-family: 'Indie Flower', cursive;
+}
+
+p.About {
+    font-family: 'Indie Flower', cursive;
+}
+
+h2.favorite {
+    font-family: 'Martel Sans', sans-serif;
+}
+
+ul.favorite {
+    font-family: 'Martel Sans', sans-serif;
+}
+
+h2.hobbies {
+    font-family: 'New Tegomin', serif;
+}
+
+ul.hobbies {
+    font-family: 'New Tegomin', serif;
+}
+
+h2.years {
+    font-family: 'Mali', cursive;
+}
+
+p.years {
+    font-family: 'Mali', cursive;
+}
